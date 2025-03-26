@@ -1,2 +1,2 @@
 my-config:
-  message: ##Some-key##
+  message: hello from server
