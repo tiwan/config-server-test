@@ -1,1 +1,1 @@
-my-config.message=${sm://test-nico}
+my-config.message=##Some-key##
