@@ -1,1 +1,1 @@
-my-config.message: ##SOME-KEY##
+my-config.message=##SOME-KEY##
